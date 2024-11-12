@@ -1,7 +1,5 @@
 # Deep Neural Networks From Scratch
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/MalayAgr/DeepNeuralNetwork-Scratch) [![DeepSource](https://deepsource.io/gh/MalayAgr/DeepNeuralNetworksFromScratch.svg/?label=active+issues&token=kDbzmWRxJ3cqJGcbzPI8GESI)](https://deepsource.io/gh/MalayAgr/DeepNeuralNetworksFromScratch/?ref=repository-badge)
-
 This is an implementation of deep neural networks using nothing but Python and NumPy. I've taken up this project to complement the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), offered by Coursera and taught by Andrew Ng.
 
 Currently, the following things are supported:
